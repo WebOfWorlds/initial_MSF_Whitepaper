@@ -94,20 +94,20 @@ WoW introduces a lightweight WoW API that connects existing web technologies:
 ⸻
 
 ✅ Key Benefits
-	•	🔄 Interoperability — Move across worlds seamlessly
-	•	👤 User Ownership — Control identity and data
-	•	📈 Scalability — Built on web infrastructure
-	•	🧠 Flexibility — Supports many industries
-	•	⚡ Efficiency — Reduces complexity vs current solutions
+* 🔄 Interoperability — Move across worlds seamlessly
+* 👤 User Ownership — Control identity and data
+* 📈 Scalability — Built on web infrastructure
+* 🧠 Flexibility — Supports many industries
+* ⚡ Efficiency — Reduces complexity vs current solutions
 
 ⸻
 
 🎯 Use Cases
-	•	🧑‍💼 Virtual collaboration & meetings
-	•	🏭 Industrial digital twins
-	•	🎓 Education & virtual field trips
-	•	🎮 Gaming & entertainment
-	•	🌍 Cross-platform social experiences
+* 🧑‍💼 Virtual collaboration & meetings
+* 🏭 Industrial digital twins
+* 🎓 Education & virtual field trips
+* 🎮 Gaming & entertainment
+* 🌍 Cross-platform social experiences
 
 ⸻
 
