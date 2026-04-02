@@ -82,14 +82,16 @@ Powered by:
 
 🏗️ Architecture
 
-WoW introduces a lightweight WoW API that connects existing web technologies:
+WoW introduces a lightweight WoW Architecture and API that connects existing web technologies:
 * 🌐 Browser-based delivery (no installs)
 * 🧩 Dynamic composition of worlds and assets
-* 🔗 Linking of worlds, users, and data
+* 🔗 Linking of worlds, assets and user manifest
 * ⚙️ Built on technologies like:
   * WebGL / WebGPU
   * JSON-LD
   * DID
+
+
 
 ⸻
 
