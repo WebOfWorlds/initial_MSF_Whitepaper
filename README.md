@@ -1,4 +1,4 @@
-# initial MSF Whitepaper
+# initial Web of World Whitepaper (MSF 3D Web Interoperability WG) 
 
 Permanent Home of the initial MSF white paper
 
