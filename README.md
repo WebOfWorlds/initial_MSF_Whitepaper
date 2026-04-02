@@ -1,6 +1,6 @@
 # initial MSF Whitepaper
 
-Permanent Home of the initial WOW MSF white paper
+Permanent Home of the initial MSF white paper
 
 2026-Q1
 
