@@ -1,8 +1,6 @@
-# initial Web of World Whitepaper (MSF 3D Web Interoperability WG) 
+# initial Web of World Whitepaper
 
-Permanent Home of the initial MSF white paper
-
-2026-Q1
+=> MSF 3D Web Interoperability WG result, 2026-Q1
 
 [Link to pdf version](https://webofworlds.github.io/initial_MSF_Whitepaper/gen/MSF-3DWebInterop_WoWWhitepaper.pdf)
 
