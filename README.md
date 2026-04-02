@@ -82,6 +82,8 @@ Powered by:
 
 🏗️ Architecture
 
+![objects](figures/architecture.svg)
+
 WoW introduces a lightweight WoW Architecture and API that connects existing web technologies:
 * 🌐 Browser-based delivery (no installs)
 * 🧩 Dynamic composition of worlds and assets
