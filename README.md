@@ -6,7 +6,7 @@ Permanent Home of the initial MSF white paper
 
 🌐 Web of Worlds (WoW) — Executive Summary
 
-An open, decentralized architecture for the metaverse built on web standards.
+An open, decentralized and efficient architecture for the metaverse built on web standards.
 
 ⸻
 
